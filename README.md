@@ -1,1 +1,22 @@
-# ui-ux
+# Car Service Center 
+- Carousel 
+- Animation
+- Responsive
+- Go to top button
+- Flip
+- Loader
+- Dropdown menu
+- Contact form layout
+- Contact form
+- Landing page layout
+- Sticky header
+- Header 
+- Navbar
+- Above header there is sub header
+- Footer Fade in
+- Testimonials
+- Booking
+- 404 Page
+- Technicians
+- Zoom effect
+
