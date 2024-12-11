@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: rgb(155, 155, 155);
+    padding: 10px;
+    max-height: 100px;
+    top: 0;
+    position: sticky;
+}
+
+.content {
+    height: 800px;
+}
